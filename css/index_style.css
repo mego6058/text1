@@ -1,0 +1,49 @@
+.body
+{
+    background-color: aqua;
+}
+.background
+{
+    background-image: url(../img/2716475.jpg);
+    
+}
+.pos
+{
+    position: relative;
+}
+.position 
+{
+   
+    position: absolute;
+   color: rgb(15,157,88);
+   top: 60% ;
+   left: 25%;
+   font-size: 60px;
+}
+.hh
+{
+    position: absolute;
+    color: rgb(66,133,244);
+    top: 10% ;
+    left: 30%;
+    font-size:50px;
+}
+.hhh
+{
+    position: absolute;
+    color: rgb(234,67,53);
+    top: 75% ;
+    left:55%;  
+}
+.hhhh
+{
+    position: absolute;
+    color:red;
+      right: 10%;  
+      font-size: 60px;
+      bottom: 10%;
+}
+
+
+
+
